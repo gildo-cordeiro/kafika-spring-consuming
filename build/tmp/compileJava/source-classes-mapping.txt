@@ -1,0 +1,6 @@
+com/mageddo/kafka/spring/Fruit.java
+ com.mageddo.kafka.spring.Fruit
+com/mageddo/kafka/spring/Main.java
+ com.mageddo.kafka.spring.Main
+com/mageddo/kafka/spring/FruitMDB.java
+ com.mageddo.kafka.spring.FruitMDB
